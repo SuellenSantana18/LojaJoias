@@ -196,9 +196,6 @@ footer p {
   .container p {
     padding-bottom: 20px;
   }
-  .menu {
-    margin-left: 30px;
-  }
   h2 {
     text-align: center;
   }
@@ -233,7 +230,7 @@ footer p {
     max-width: 80%;
   }
   .menu {
-    margin-right: 80px !important;
+    margin-right: 29px !important;
   }
   p {
     text-align: center;
@@ -246,6 +243,9 @@ footer p {
   .products {
     grid-template-columns: repeat(2, 48.5%);
     column-gap: 3%;
+  }
+  .containerh {
+    max-width: 80%;
   }
 }
 

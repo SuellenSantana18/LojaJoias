@@ -230,9 +230,7 @@ p {
     
     }
 
-    .menu {
-      margin-left: 30px;
-    }
+  
     h2{
       text-align: center;
     }
@@ -282,7 +280,7 @@ p {
     }
 
       .menu {
-      margin-right: 80px!important;
+      margin-right: 29px!important;
     }
 
      p{
@@ -298,6 +296,12 @@ p {
     .products {
         grid-template-columns: repeat(2, 48.5%);
         column-gap: 3%;
+
+   
+    }
+
+         .containerh {
+        max-width: 80%;
     }
 
   
